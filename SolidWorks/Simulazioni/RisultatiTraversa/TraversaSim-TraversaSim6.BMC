@@ -1,0 +1,6 @@
+SOLVER TYPE= FFEPlus (PCG Iterative Solver)
+Number of Equations (NEQ)=9168
+Number of Nodal points (NUMNP)=602287
+Number of Pseudo nodes (NUMPS)=0
+Number of Elements (NUME)=476
+Number of Pseudo Elements (NUMP)=0
