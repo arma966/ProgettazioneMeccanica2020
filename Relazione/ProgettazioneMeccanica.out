@@ -1,0 +1,31 @@
+\BOOKMARK [1][-]{section.1}{Introduzione}{}% 1
+\BOOKMARK [1][-]{section.2}{Analisi SADT}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Livello A0}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Nodo A3}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Nodo A4}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Nodo A5}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Nodo A6}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Nodo A33}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Dimensionamento preliminare}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Dimensionamento generale}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Dimensionamento delle carrucole}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Verifica dei becchi}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Verifica del gambo}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.5}{Verifica dei lamoni e dei piastroni}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.6}{Dimensionamento e verifica della traversa}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.7}{Dimensionamento e verifica dell'asse delle carrucole}{section.3}% 16
+\BOOKMARK [3][-]{subsubsection.3.7.1}{-\(h-yG\) ybr H+yG}{subsection.3.7}% 17
+\BOOKMARK [3][-]{subsubsection.3.7.2}{-\(r tan\(30\)+h-yG\) ybr -\(h-yG\)}{subsection.3.7}% 18
+\BOOKMARK [3][-]{subsubsection.3.7.3}{-\(R-yG\) ybr -r tan\(30\)-\(h-yG\)}{subsection.3.7}% 19
+\BOOKMARK [3][-]{subsubsection.3.7.4}{Verifica della sezione B-B}{subsection.3.7}% 20
+\BOOKMARK [3][-]{subsubsection.3.7.5}{Verifica nominale delle sollecitazioni ideali sull'asse delle carrucole}{subsection.3.7}% 21
+\BOOKMARK [2][-]{subsection.3.8}{Verifica a fatica}{section.3}% 22
+\BOOKMARK [1][-]{section.4}{Analisi FEM}{}% 23
+\BOOKMARK [2][-]{subsection.4.1}{Analisi del sistema complessivo}{section.4}% 24
+\BOOKMARK [2][-]{subsection.4.2}{Analisi del gancio}{section.4}% 25
+\BOOKMARK [2][-]{subsection.4.3}{Analisi del gambo del gancio}{section.4}% 26
+\BOOKMARK [2][-]{subsection.4.4}{Analisi della traversa}{section.4}% 27
+\BOOKMARK [2][-]{subsection.4.5}{Analisi dell'asse}{section.4}% 28
+\BOOKMARK [1][-]{section.5}{Modello finale}{}% 29
+\BOOKMARK [1][-]{section.6}{Conclusioni}{}% 30
+\BOOKMARK [1][-]{appendix.Alph1}{Golfari}{}% 31

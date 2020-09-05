@@ -1,0 +1,33 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {section}{\numberline {1}Introduzione}{1}{section.1}%
+\contentsline {section}{\numberline {2}Analisi SADT}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Livello A0}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Nodo A3}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Nodo A4}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Nodo A5}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Nodo A6}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Nodo A33}{6}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Dimensionamento preliminare}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Dimensionamento generale}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Dimensionamento delle carrucole}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Verifica dei becchi}{14}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Verifica del gambo}{20}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Verifica dei lamoni e dei piastroni}{23}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Dimensionamento e verifica della traversa}{27}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Dimensionamento e verifica dell'asse delle carrucole}{34}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}$-(h-y_G) \leq y_{br} \leq H+y_G$}{39}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}$-(r \cdot \qopname \relax o{tan}(30^\circ )+h-y_G) \leq y_{br} \leq -(h-y_G)$}{41}{subsubsection.3.7.2}%
+\contentsline {subsubsection}{\numberline {3.7.3}$-(R-y_G) \leq y_{br} \leq -r \cdot \qopname \relax o{tan}(30^\circ )-(h-y_G)$}{44}{subsubsection.3.7.3}%
+\contentsline {subsubsection}{\numberline {3.7.4}Verifica della sezione B-B}{45}{subsubsection.3.7.4}%
+\contentsline {subsubsection}{\numberline {3.7.5}Verifica nominale delle sollecitazioni ideali sull'asse delle carrucole}{50}{subsubsection.3.7.5}%
+\contentsline {subsection}{\numberline {3.8}Verifica a fatica}{55}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Analisi FEM}{57}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Analisi del sistema complessivo}{57}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Analisi del gancio}{60}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Analisi del gambo del gancio}{61}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Analisi della traversa}{63}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Analisi dell'asse}{65}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Modello finale}{68}{section.5}%
+\contentsline {section}{\numberline {6}Conclusioni}{72}{section.6}%
+\contentsline {section}{\numberline {A}Golfari}{73}{appendix.Alph1}%
