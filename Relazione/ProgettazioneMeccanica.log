@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.8)  5 SEP 2020 09:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.8)  5 SEP 2020 16:16
 entering extended mode
 **./ProgettazioneMeccanica.tex
 (ProgettazioneMeccanica.tex
@@ -1935,7 +1935,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  14386 strings out of 480799
  263832 string characters out of 2907382
- 530495 words of memory out of 3000000
+ 529685 words of memory out of 3000000
  29739 multiletter control sequences out of 15000+200000
  544690 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1954,7 +1954,7 @@ rammi/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Programmi/MiKTeX 2
 ts/cm/cmsl10.pfb><D:/Programmi/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><D:/Programmi/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Prog
 rammi/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ProgettazioneMeccanica.pdf (76 pages, 19816485 bytes).
+Output written on ProgettazioneMeccanica.pdf (76 pages, 19815987 bytes).
 PDF statistics:
  18795 PDF objects out of 22161 (max. 8388607)
  237 named destinations out of 1000 (max. 500000)
