@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.8)  5 SEP 2020 16:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.6.8)  8 SEP 2020 16:41
 entering extended mode
 **./ProgettazioneMeccanica.tex
 (ProgettazioneMeccanica.tex
@@ -577,9 +577,6 @@ Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 (ProgettazioneMeccanica.aux (Capitoli/Introduzione.aux) (Capitoli/SADT.aux)
 (Capitoli/PrelimDim.aux
 
-LaTeX Warning: Label `fig:TabellaFuni' multiply defined.
-
-
 LaTeX Warning: Label `fig:Carr1' multiply defined.
 
 
@@ -924,9 +921,6 @@ Package pdftex.def Info: imgs/DimGen2.pdf  used on input line 80.
 (pdftex.def)             Requested size: 211.38847pt x 128.45955pt.
 
 [10 <./imgs/TabellaFuni.jpg>]
-
-LaTeX Warning: Reference `fig:DimGen' on page 11 undefined on input line 88.
-
 <imgs/GamboDraw.pdf, id=278, 413.88765pt x 821.41223pt>
 File: imgs/GamboDraw.pdf Graphic file (type pdf)
 <use imgs/GamboDraw.pdf>
@@ -937,7 +931,7 @@ File: imgs/DimGambo.pdf Graphic file (type pdf)
 <use imgs/DimGambo.pdf>
 Package pdftex.def Info: imgs/DimGambo.pdf  used on input line 99.
 (pdftex.def)             Requested size: 253.66876pt x 228.38518pt.
-[11 <./imgs/DimGen0.pdf> <./imgs/DimGen.pdf
+ [11 <./imgs/DimGen0.pdf> <./imgs/DimGen.pdf
 
 pdfTeX warning: pdflatex (file ./imgs/DimGen.pdf): PDF inclusion: multiple pdfs
  with page group included in a single page
@@ -946,22 +940,22 @@ pdfTeX warning: pdflatex (file ./imgs/DimGen.pdf): PDF inclusion: multiple pdfs
 pdfTeX warning: pdflatex (file ./imgs/DimGen2.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
 >]
-<imgs/Cap5/5 FilDim.pdf, id=1956, 2037.2171pt x 1282.93758pt>
+<imgs/Cap5/5 FilDim.pdf, id=1957, 2037.2171pt x 1282.93758pt>
 File: imgs/Cap5/5 FilDim.pdf Graphic file (type pdf)
 <use imgs/Cap5/5 FilDim.pdf>
 Package pdftex.def Info: imgs/Cap5/5 FilDim.pdf  used on input line 109.
 (pdftex.def)             Requested size: 190.24834pt x 119.80527pt.
-<imgs/FilettaturaTabella.pdf, id=1957, 463.72144pt x 351.94998pt>
+<imgs/FilettaturaTabella.pdf, id=1958, 463.72144pt x 351.94998pt>
 File: imgs/FilettaturaTabella.pdf Graphic file (type pdf)
 <use imgs/FilettaturaTabella.pdf>
 Package pdftex.def Info: imgs/FilettaturaTabella.pdf  used on input line 115.
 (pdftex.def)             Requested size: 190.24834pt x 144.39171pt.
-<imgs/Carr1.pdf, id=1960, 1397.46886pt x 1203.61546pt>
+<imgs/Carr1.pdf, id=1961, 1397.46886pt x 1203.61546pt>
 File: imgs/Carr1.pdf Graphic file (type pdf)
 <use imgs/Carr1.pdf>
 Package pdftex.def Info: imgs/Carr1.pdf  used on input line 127.
 (pdftex.def)             Requested size: 232.52861pt x 200.25926pt.
-<imgs/Carr2.pdf, id=1961, 1152.18665pt x 1527.67735pt>
+<imgs/Carr2.pdf, id=1962, 1152.18665pt x 1527.67735pt>
 File: imgs/Carr2.pdf Graphic file (type pdf)
 <use imgs/Carr2.pdf>
 Package pdftex.def Info: imgs/Carr2.pdf  used on input line 133.
@@ -979,12 +973,12 @@ le pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./imgs/FilettaturaTabella.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
 >]
-<imgs/CarrTab1.pdf, id=4909, 395.03578pt x 163.72179pt>
+<imgs/CarrTab1.pdf, id=4910, 395.03578pt x 163.72179pt>
 File: imgs/CarrTab1.pdf Graphic file (type pdf)
 <use imgs/CarrTab1.pdf>
 Package pdftex.def Info: imgs/CarrTab1.pdf  used on input line 141.
 (pdftex.def)             Requested size: 281.8561pt x 116.81535pt.
-<imgs/CarrTab2.pdf, id=4910, 487.44104pt x 258.29497pt>
+<imgs/CarrTab2.pdf, id=4911, 487.44104pt x 258.29497pt>
 File: imgs/CarrTab2.pdf Graphic file (type pdf)
 <use imgs/CarrTab2.pdf>
 Package pdftex.def Info: imgs/CarrTab2.pdf  used on input line 147.
@@ -1002,28 +996,28 @@ fs with page group included in a single page
 pdfTeX warning: pdflatex (file ./imgs/CarrTab2.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
 >]
-<imgs/Cap5/92 SolidoFitt.pdf, id=5945, 623.38849pt x 668.71658pt>
+<imgs/Cap5/92 SolidoFitt.pdf, id=5946, 623.38849pt x 668.71658pt>
 File: imgs/Cap5/92 SolidoFitt.pdf Graphic file (type pdf)
 <use imgs/Cap5/92 SolidoFitt.pdf>
 Package pdftex.def Info: imgs/Cap5/92 SolidoFitt.pdf  used on input line 219.
 (pdftex.def)             Requested size: 207.16281pt x 222.22812pt.
-<imgs/chiTrap.pdf, id=5946, 258.72661pt x 312.20355pt>
+<imgs/chiTrap.pdf, id=5947, 258.72661pt x 312.20355pt>
 File: imgs/chiTrap.pdf Graphic file (type pdf)
 <use imgs/chiTrap.pdf>
 Package pdftex.def Info: imgs/chiTrap.pdf  used on input line 225.
 (pdftex.def)             Requested size: 108.51361pt x 130.94357pt.
  [14]
-<imgs/Mathcad1.pdf, id=5954, 194.6558pt x 169.38281pt>
+<imgs/Mathcad1.pdf, id=5955, 194.6558pt x 169.38281pt>
 File: imgs/Mathcad1.pdf Graphic file (type pdf)
 <use imgs/Mathcad1.pdf>
 Package pdftex.def Info: imgs/Mathcad1.pdf  used on input line 233.
 (pdftex.def)             Requested size: 234.87769pt x 204.39555pt.
-<imgs/Mathcad2.pdf, id=5955, 237.67366pt x 205.41028pt>
+<imgs/Mathcad2.pdf, id=5956, 237.67366pt x 205.41028pt>
 File: imgs/Mathcad2.pdf Graphic file (type pdf)
 <use imgs/Mathcad2.pdf>
 Package pdftex.def Info: imgs/Mathcad2.pdf  used on input line 239.
 (pdftex.def)             Requested size: 211.38849pt x 182.69232pt.
-<imgs/Cap5/94 ConcioGC.pdf, id=5956, 539.86263pt x 351.9293pt>
+<imgs/Cap5/94 ConcioGC.pdf, id=5957, 539.86263pt x 351.9293pt>
 File: imgs/Cap5/94 ConcioGC.pdf Graphic file (type pdf)
 <use imgs/Cap5/94 ConcioGC.pdf>
 Package pdftex.def Info: imgs/Cap5/94 ConcioGC.pdf  used on input line 245.
@@ -1041,22 +1035,22 @@ tiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./imgs/Mathcad2.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
 >]
-<imgs/Mathcad3.pdf, id=6413, 233.26678pt x 180.20514pt>
+<imgs/Mathcad3.pdf, id=6414, 233.26678pt x 180.20514pt>
 File: imgs/Mathcad3.pdf Graphic file (type pdf)
 <use imgs/Mathcad3.pdf>
 Package pdftex.def Info: imgs/Mathcad3.pdf  used on input line 259.
 (pdftex.def)             Requested size: 164.41725pt x 127.01712pt.
-<imgs/Cap5/95 SolidoFitt2.pdf, id=6414, 397.25737pt x 329.5199pt>
+<imgs/Cap5/95 SolidoFitt2.pdf, id=6415, 397.25737pt x 329.5199pt>
 File: imgs/Cap5/95 SolidoFitt2.pdf Graphic file (type pdf)
 <use imgs/Cap5/95 SolidoFitt2.pdf>
 Package pdftex.def Info: imgs/Cap5/95 SolidoFitt2.pdf  used on input line 268.
 (pdftex.def)             Requested size: 187.89928pt x 155.85986pt.
-<imgs/Mathcad4.pdf, id=6415, 222.13089pt x 405.43106pt>
+<imgs/Mathcad4.pdf, id=6416, 222.13089pt x 405.43106pt>
 File: imgs/Mathcad4.pdf Graphic file (type pdf)
 <use imgs/Mathcad4.pdf>
 Package pdftex.def Info: imgs/Mathcad4.pdf  used on input line 274.
 (pdftex.def)             Requested size: 187.89928pt x 342.96008pt.
-<imgs/Mathcad5.pdf, id=6416, 361.6414pt x 436.6312pt>
+<imgs/Mathcad5.pdf, id=6417, 361.6414pt x 436.6312pt>
 File: imgs/Mathcad5.pdf Graphic file (type pdf)
 <use imgs/Mathcad5.pdf>
 Package pdftex.def Info: imgs/Mathcad5.pdf  used on input line 280.
@@ -1066,18 +1060,18 @@ Package pdftex.def Info: imgs/Mathcad5.pdf  used on input line 280.
 pdfTeX warning: pdflatex (file ./imgs/Cap5/95 SolidoFitt2.pdf): PDF inclusion: 
 multiple pdfs with page group included in a single page
 >] [18 <./imgs/Mathcad4.pdf>] [19 <./imgs/Mathcad5.pdf>]
-<imgs/Cap5/96 SolidoFitt3.pdf, id=7399, 460.4111pt x 443.09476pt>
+<imgs/Cap5/96 SolidoFitt3.pdf, id=7400, 460.4111pt x 443.09476pt>
 File: imgs/Cap5/96 SolidoFitt3.pdf Graphic file (type pdf)
 <use imgs/Cap5/96 SolidoFitt3.pdf>
 Package pdftex.def Info: imgs/Cap5/96 SolidoFitt3.pdf  used on input line 295.
 (pdftex.def)             Requested size: 198.70569pt x 191.23018pt.
-<imgs/Cap5/SolidoFittGambo.pdf, id=7400, 504.5545pt x 460.41129pt>
+<imgs/Cap5/SolidoFittGambo.pdf, id=7401, 504.5545pt x 460.41129pt>
 File: imgs/Cap5/SolidoFittGambo.pdf Graphic file (type pdf)
 <use imgs/Cap5/SolidoFittGambo.pdf>
 Package pdftex.def Info: imgs/Cap5/SolidoFittGambo.pdf  used on input line 301.
 
 (pdftex.def)             Requested size: 198.70569pt x 181.32303pt.
-<imgs/Mathcad6.pdf, id=7401, 253.84937pt x 313.76984pt>
+<imgs/Mathcad6.pdf, id=7402, 253.84937pt x 313.76984pt>
 File: imgs/Mathcad6.pdf Graphic file (type pdf)
 <use imgs/Mathcad6.pdf>
 Package pdftex.def Info: imgs/Mathcad6.pdf  used on input line 312.
@@ -1093,30 +1087,30 @@ pdfTeX warning: pdflatex (file ./imgs/Cap5/SolidoFittGambo.pdf): PDF inclusion:
 pdfTeX warning: pdflatex (file ./imgs/Mathcad6.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
 >]
-<imgs/Mathcad7.pdf, id=7737, 363.94907pt x 470.48291pt>
+<imgs/Mathcad7.pdf, id=7738, 363.94907pt x 470.48291pt>
 File: imgs/Mathcad7.pdf Graphic file (type pdf)
 <use imgs/Mathcad7.pdf>
 Package pdftex.def Info: imgs/Mathcad7.pdf  used on input line 337.
 (pdftex.def)             Requested size: 281.8561pt x 364.36922pt.
  [21]
-<imgs/Cap6/3 LamPias.pdf, id=7742, 959.52931pt x 1424.52428pt>
+<imgs/Cap6/3 LamPias.pdf, id=7743, 959.52931pt x 1424.52428pt>
 File: imgs/Cap6/3 LamPias.pdf Graphic file (type pdf)
 <use imgs/Cap6/3 LamPias.pdf>
 Package pdftex.def Info: imgs/Cap6/3 LamPias.pdf  used on input line 345.
 (pdftex.def)             Requested size: 281.8561pt x 418.44864pt.
  [22 <./imgs/Mathcad7.pdf>]
-<imgs/MathLP1.pdf, id=8250, 158.15088pt x 152.23634pt>
+<imgs/MathLP1.pdf, id=8251, 158.15088pt x 152.23634pt>
 File: imgs/MathLP1.pdf Graphic file (type pdf)
 <use imgs/MathLP1.pdf>
 Package pdftex.def Info: imgs/MathLP1.pdf  used on input line 357.
 (pdftex.def)             Requested size: 117.43884pt x 113.04802pt.
-<imgs/Cap6/4 FattoreForma.pdf, id=8251, 841.37071pt x 541.39049pt>
+<imgs/Cap6/4 FattoreForma.pdf, id=8252, 841.37071pt x 541.39049pt>
 File: imgs/Cap6/4 FattoreForma.pdf Graphic file (type pdf)
 <use imgs/Cap6/4 FattoreForma.pdf>
 Package pdftex.def Info: imgs/Cap6/4 FattoreForma.pdf  used on input line 363.
 (pdftex.def)             Requested size: 281.8561pt x 181.369pt.
  [23 <./imgs/Cap6/3 LamPias.pdf>]
-<imgs/MathLP2.pdf, id=8261, 160.7607pt x 216.07434pt>
+<imgs/MathLP2.pdf, id=8262, 160.7607pt x 216.07434pt>
 File: imgs/MathLP2.pdf Graphic file (type pdf)
 <use imgs/MathLP2.pdf>
 Package pdftex.def Info: imgs/MathLP2.pdf  used on input line 377.
@@ -1126,13 +1120,13 @@ Package pdftex.def Info: imgs/MathLP2.pdf  used on input line 377.
 pdfTeX warning: pdflatex (file ./imgs/Cap6/4 FattoreForma.pdf): PDF inclusion: 
 multiple pdfs with page group included in a single page
 >]
-<imgs/MathLP4.pdf, id=8357, 261.69933pt x 480.80923pt>
+<imgs/MathLP4.pdf, id=8358, 261.69933pt x 480.80923pt>
 File: imgs/MathLP4.pdf Graphic file (type pdf)
 <use imgs/MathLP4.pdf>
 Package pdftex.def Info: imgs/MathLP4.pdf  used on input line 390.
 (pdftex.def)             Requested size: 211.38849pt x 388.38954pt.
  [25 <./imgs/MathLP2.pdf>]
-<imgs/MathLP5.pdf, id=8505, 181.85934pt x 31.06067pt>
+<imgs/MathLP5.pdf, id=8506, 181.85934pt x 31.06067pt>
 File: imgs/MathLP5.pdf Graphic file (type pdf)
 <use imgs/MathLP5.pdf>
 Package pdftex.def Info: imgs/MathLP5.pdf  used on input line 401.
@@ -1142,18 +1136,18 @@ Package pdftex.def Info: imgs/MathLP5.pdf  used on input line 401.
 pdfTeX warning: pdflatex (file ./imgs/MathLP5.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
 >]
-<imgs/Cap6/5 SchizzoTraversa.pdf, id=8922, 678.39342pt x 622.8792pt>
+<imgs/Cap6/5 SchizzoTraversa.pdf, id=8923, 678.39342pt x 622.8792pt>
 File: imgs/Cap6/5 SchizzoTraversa.pdf Graphic file (type pdf)
 <use imgs/Cap6/5 SchizzoTraversa.pdf>
 Package pdftex.def Info: imgs/Cap6/5 SchizzoTraversa.pdf  used on input line 41
 7.
 (pdftex.def)             Requested size: 187.90286pt x 172.52312pt.
-<imgs/Cap6/7 SezResTrav.pdf, id=8923, 509.30428pt x 278.08014pt>
+<imgs/Cap6/7 SezResTrav.pdf, id=8924, 509.30428pt x 278.08014pt>
 File: imgs/Cap6/7 SezResTrav.pdf Graphic file (type pdf)
 <use imgs/Cap6/7 SezResTrav.pdf>
 Package pdftex.def Info: imgs/Cap6/7 SezResTrav.pdf  used on input line 423.
 (pdftex.def)             Requested size: 164.41365pt x 89.76819pt.
-<imgs/TabTraversa.pdf, id=8924, 338.66524pt x 312.01569pt>
+<imgs/TabTraversa.pdf, id=8925, 338.66524pt x 312.01569pt>
 File: imgs/TabTraversa.pdf Graphic file (type pdf)
 <use imgs/TabTraversa.pdf>
 Package pdftex.def Info: imgs/TabTraversa.pdf  used on input line 430.
@@ -1169,40 +1163,40 @@ ltiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./imgs/TabTraversa.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >]
-<imgs/Cap6/6 DiagCarico.pdf, id=9445, 522.10028pt x 568.38385pt>
+<imgs/Cap6/6 DiagCarico.pdf, id=9446, 522.10028pt x 568.38385pt>
 File: imgs/Cap6/6 DiagCarico.pdf Graphic file (type pdf)
 <use imgs/Cap6/6 DiagCarico.pdf>
 Package pdftex.def Info: imgs/Cap6/6 DiagCarico.pdf  used on input line 451.
 (pdftex.def)             Requested size: 234.87769pt x 255.70097pt.
-<imgs/MathTrav1.pdf, id=9446, 294.01604pt x 645.63731pt>
+<imgs/MathTrav1.pdf, id=9447, 294.01604pt x 645.63731pt>
 File: imgs/MathTrav1.pdf Graphic file (type pdf)
 <use imgs/MathTrav1.pdf>
 Package pdftex.def Info: imgs/MathTrav1.pdf  used on input line 458.
 (pdftex.def)             Requested size: 234.87769pt x 515.79138pt.
-<imgs/MathTrav2.pdf, id=9447, 301.5305pt x 733.27724pt>
+<imgs/MathTrav2.pdf, id=9448, 301.5305pt x 733.27724pt>
 File: imgs/MathTrav2.pdf Graphic file (type pdf)
 <use imgs/MathTrav2.pdf>
 Package pdftex.def Info: imgs/MathTrav2.pdf  used on input line 464.
 (pdftex.def)             Requested size: 234.87769pt x 571.2043pt.
  [28 <./imgs/Cap6/6 DiagCarico.pdf>] [29 <./imgs/MathTrav1.pdf>] [30 <./imgs/Ma
 thTrav2.pdf>]
-<imgs/MathTrav3.pdf, id=10299, 195.00853pt x 157.30638pt>
+<imgs/MathTrav3.pdf, id=10300, 195.00853pt x 157.30638pt>
 File: imgs/MathTrav3.pdf Graphic file (type pdf)
 <use imgs/MathTrav3.pdf>
 Package pdftex.def Info: imgs/MathTrav3.pdf  used on input line 479.
 (pdftex.def)             Requested size: 187.89928pt x 151.57646pt.
-<imgs/MathTrav4.pdf, id=10300, 274.34659pt x 448.8274pt>
+<imgs/MathTrav4.pdf, id=10301, 274.34659pt x 448.8274pt>
 File: imgs/MathTrav4.pdf Graphic file (type pdf)
 <use imgs/MathTrav4.pdf>
 Package pdftex.def Info: imgs/MathTrav4.pdf  used on input line 486.
 (pdftex.def)             Requested size: 234.87769pt x 384.2582pt.
  [31 <./imgs/MathTrav3.pdf>]
-<imgs/MathTrav5.pdf, id=10448, 140.5439pt x 64.057pt>
+<imgs/MathTrav5.pdf, id=10449, 140.5439pt x 64.057pt>
 File: imgs/MathTrav5.pdf Graphic file (type pdf)
 <use imgs/MathTrav5.pdf>
 Package pdftex.def Info: imgs/MathTrav5.pdf  used on input line 493.
 (pdftex.def)             Requested size: 140.92804pt x 64.23766pt.
-<imgs/MathTrav6.pdf, id=10449, 202.55116pt x 117.30812pt>
+<imgs/MathTrav6.pdf, id=10450, 202.55116pt x 117.30812pt>
 File: imgs/MathTrav6.pdf Graphic file (type pdf)
 <use imgs/MathTrav6.pdf>
 Package pdftex.def Info: imgs/MathTrav6.pdf  used on input line 500.
@@ -1212,7 +1206,7 @@ Package pdftex.def Info: imgs/MathTrav6.pdf  used on input line 500.
 pdfTeX warning: pdflatex (file ./imgs/MathTrav5.pdf): PDF inclusion: multiple p
 dfs with page group included in a single page
 >] [33 <./imgs/MathTrav6.pdf>]
-<imgs/AsseDisegno.pdf, id=10998, 833.0198pt x 1319.67946pt>
+<imgs/AsseDisegno.pdf, id=10999, 833.0198pt x 1319.67946pt>
 File: imgs/AsseDisegno.pdf Graphic file (type pdf)
 <use imgs/AsseDisegno.pdf>
 Package pdftex.def Info: imgs/AsseDisegno.pdf  used on input line 512.
@@ -1226,28 +1220,28 @@ Overfull \hbox (1.7986pt too wide) in paragraph at lines 531--535
 1/cmr/m/n/10.95 mas-si-me
  []
 
-<imgs/Cap7/SezAsse1.pdf, id=11007, 562.27203pt x 448.69714pt>
+<imgs/Cap7/SezAsse1.pdf, id=11008, 562.27203pt x 448.69714pt>
 File: imgs/Cap7/SezAsse1.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse1.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse1.pdf  used on input line 538.
 (pdftex.def)             Requested size: 164.41725pt x 131.20059pt.
-<imgs/MathAsse1.pdf, id=11009, 244.12634pt x 167.76964pt>
+<imgs/MathAsse1.pdf, id=11010, 244.12634pt x 167.76964pt>
 File: imgs/MathAsse1.pdf Graphic file (type pdf)
 <use imgs/MathAsse1.pdf>
 Package pdftex.def Info: imgs/MathAsse1.pdf  used on input line 546.
 (pdftex.def)             Requested size: 187.89928pt x 129.12924pt.
-<imgs/Cap7/SezAsse2.pdf, id=11010, 1061.39015pt x 601.99765pt>
+<imgs/Cap7/SezAsse2.pdf, id=11011, 1061.39015pt x 601.99765pt>
 File: imgs/Cap7/SezAsse2.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse2.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse2.pdf  used on input line 552.
 (pdftex.def)             Requested size: 258.36688pt x 146.53998pt.
 [35 <./imgs/Cap7/SezAsse1.pdf>]
-<imgs/MathAsse2.pdf, id=11020, 271.0125pt x 310.80402pt>
+<imgs/MathAsse2.pdf, id=11021, 271.0125pt x 310.80402pt>
 File: imgs/MathAsse2.pdf Graphic file (type pdf)
 <use imgs/MathAsse2.pdf>
 Package pdftex.def Info: imgs/MathAsse2.pdf  used on input line 559.
 (pdftex.def)             Requested size: 187.89928pt x 215.4936pt.
-<imgs/Cap7/SezAsse3.pdf, id=11021, 587.41975pt x 357.51558pt>
+<imgs/Cap7/SezAsse3.pdf, id=11022, 587.41975pt x 357.51558pt>
 File: imgs/Cap7/SezAsse3.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse3.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse3.pdf  used on input line 565.
@@ -1261,12 +1255,12 @@ le pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./imgs/MathAsse2.pdf): PDF inclusion: multiple p
 dfs with page group included in a single page
 >]
-<imgs/MathAsse2_1.pdf, id=11396, 175.46104pt x 49.5681pt>
+<imgs/MathAsse2_1.pdf, id=11397, 175.46104pt x 49.5681pt>
 File: imgs/MathAsse2_1.pdf Graphic file (type pdf)
 <use imgs/MathAsse2_1.pdf>
 Package pdftex.def Info: imgs/MathAsse2_1.pdf  used on input line 572.
 (pdftex.def)             Requested size: 140.92804pt x 39.8141pt.
-<imgs/Cap7/SezAsse4.pdf, id=11397, 1067.49437pt x 441.57005pt>
+<imgs/Cap7/SezAsse4.pdf, id=11398, 1067.49437pt x 441.57005pt>
 File: imgs/Cap7/SezAsse4.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse4.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse4.pdf  used on input line 578.
@@ -1278,12 +1272,12 @@ LaTeX Warning: Command \textquoteright invalid in math mode on input line 579.
 
 LaTeX Warning: Command \textquoteright invalid in math mode on input line 579.
 
-<imgs/Cap7/SezAsse5.pdf, id=11398, 676.35614pt x 420.17607pt>
+<imgs/Cap7/SezAsse5.pdf, id=11399, 676.35614pt x 420.17607pt>
 File: imgs/Cap7/SezAsse5.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse5.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse5.pdf  used on input line 584.
 (pdftex.def)             Requested size: 187.89928pt x 116.72525pt.
-<imgs/MathAsse3.pdf, id=11400, 479.46716pt x 262.35712pt>
+<imgs/MathAsse3.pdf, id=11401, 479.46716pt x 262.35712pt>
 File: imgs/MathAsse3.pdf Graphic file (type pdf)
 <use imgs/MathAsse3.pdf>
 Package pdftex.def Info: imgs/MathAsse3.pdf  used on input line 591.
@@ -1301,7 +1295,7 @@ le pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./imgs/Cap7/SezAsse5.pdf): PDF inclusion: multip
 le pdfs with page group included in a single page
 >]
-<imgs/MathAsse3_1.pdf, id=11477, 177.56633pt x 86.69191pt>
+<imgs/MathAsse3_1.pdf, id=11478, 177.56633pt x 86.69191pt>
 File: imgs/MathAsse3_1.pdf Graphic file (type pdf)
 <use imgs/MathAsse3_1.pdf>
 Package pdftex.def Info: imgs/MathAsse3_1.pdf  used on input line 598.
@@ -1335,7 +1329,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 610.
 
-<imgs/Cap7/SezAsse6.pdf, id=11478, 1077.04556pt x 624.83199pt>
+<imgs/Cap7/SezAsse6.pdf, id=11479, 1077.04556pt x 624.83199pt>
 File: imgs/Cap7/SezAsse6.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse6.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse6.pdf  used on input line 613.
@@ -1345,17 +1339,17 @@ Package pdftex.def Info: imgs/Cap7/SezAsse6.pdf  used on input line 613.
 pdfTeX warning: pdflatex (file ./imgs/MathAsse3_1.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >]
-<imgs/MathAsse4_0.pdf, id=12016, 233.45984pt x 51.71098pt>
+<imgs/MathAsse4_0.pdf, id=12017, 233.45984pt x 51.71098pt>
 File: imgs/MathAsse4_0.pdf Graphic file (type pdf)
 <use imgs/MathAsse4_0.pdf>
 Package pdftex.def Info: imgs/MathAsse4_0.pdf  used on input line 620.
 (pdftex.def)             Requested size: 187.89928pt x 41.61974pt.
-<imgs/Cap7/SezAsse7.pdf, id=12018, 834.2253pt x 458.3749pt>
+<imgs/Cap7/SezAsse7.pdf, id=12019, 834.2253pt x 458.3749pt>
 File: imgs/Cap7/SezAsse7.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse7.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse7.pdf  used on input line 629.
 (pdftex.def)             Requested size: 211.38849pt x 116.14615pt.
-<imgs/MathAsse4.pdf, id=12019, 412.86438pt x 224.4776pt>
+<imgs/MathAsse4.pdf, id=12020, 412.86438pt x 224.4776pt>
 File: imgs/MathAsse4.pdf Graphic file (type pdf)
 <use imgs/MathAsse4.pdf>
 Package pdftex.def Info: imgs/MathAsse4.pdf  used on input line 635.
@@ -1369,12 +1363,12 @@ pdfTeX warning: pdflatex (file ./imgs/MathAsse4_0.pdf): PDF inclusion: multiple
 pdfTeX warning: pdflatex (file ./imgs/Cap7/SezAsse7.pdf): PDF inclusion: multip
 le pdfs with page group included in a single page
 >]
-<imgs/MathAsse4_1.pdf, id=12146, 409.12508pt x 450.18962pt>
+<imgs/MathAsse4_1.pdf, id=12147, 409.12508pt x 450.18962pt>
 File: imgs/MathAsse4_1.pdf Graphic file (type pdf)
 <use imgs/MathAsse4_1.pdf>
 Package pdftex.def Info: imgs/MathAsse4_1.pdf  used on input line 642.
 (pdftex.def)             Requested size: 305.33812pt x 336.00647pt.
-<imgs/MathAsse4_2.pdf, id=12147, 408.52065pt x 243.5962pt>
+<imgs/MathAsse4_2.pdf, id=12148, 408.52065pt x 243.5962pt>
 File: imgs/MathAsse4_2.pdf Graphic file (type pdf)
 <use imgs/MathAsse4_2.pdf>
 Package pdftex.def Info: imgs/MathAsse4_2.pdf  used on input line 649.
@@ -1384,7 +1378,7 @@ Package pdftex.def Info: imgs/MathAsse4_2.pdf  used on input line 649.
 pdfTeX warning: pdflatex (file ./imgs/MathAsse4_1.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >]
-<imgs/Cap7/SezAsse8.pdf, id=12622, 888.93936pt x 360.05641pt>
+<imgs/Cap7/SezAsse8.pdf, id=12623, 888.93936pt x 360.05641pt>
 File: imgs/Cap7/SezAsse8.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse8.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse8.pdf  used on input line 656.
@@ -1446,12 +1440,12 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 661.
 
-<imgs/Cap7/SezAsse9.pdf, id=12623, 670.2445pt x 626.95361pt>
+<imgs/Cap7/SezAsse9.pdf, id=12624, 670.2445pt x 626.95361pt>
 File: imgs/Cap7/SezAsse9.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse9.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse9.pdf  used on input line 664.
 (pdftex.def)             Requested size: 211.38849pt x 197.73059pt.
-<imgs/MathAsse5_0.pdf, id=12624, 501.90958pt x 54.64754pt>
+<imgs/MathAsse5_0.pdf, id=12625, 501.90958pt x 54.64754pt>
 File: imgs/MathAsse5_0.pdf Graphic file (type pdf)
 <use imgs/MathAsse5_0.pdf>
 Package pdftex.def Info: imgs/MathAsse5_0.pdf  used on input line 670.
@@ -1465,17 +1459,17 @@ le pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./imgs/Cap7/SezAsse9.pdf): PDF inclusion: multip
 le pdfs with page group included in a single page
 >]
-<imgs/Cap7/SezAsse10.pdf, id=12822, 776.17982pt x 559.21619pt>
+<imgs/Cap7/SezAsse10.pdf, id=12823, 776.17982pt x 559.21619pt>
 File: imgs/Cap7/SezAsse10.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse10.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse10.pdf  used on input line 677.
 (pdftex.def)             Requested size: 187.89928pt x 135.3751pt.
-<imgs/Cap7/SezAsse11.pdf, id=12823, 641.72346pt x 546.48355pt>
+<imgs/Cap7/SezAsse11.pdf, id=12824, 641.72346pt x 546.48355pt>
 File: imgs/Cap7/SezAsse11.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse11.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse11.pdf  used on input line 687.
 (pdftex.def)             Requested size: 211.38849pt x 180.01491pt.
-<imgs/MathAsse5_2.pdf, id=12824, 415.49225pt x 443.18341pt>
+<imgs/MathAsse5_2.pdf, id=12825, 415.49225pt x 443.18341pt>
 File: imgs/MathAsse5_2.pdf Graphic file (type pdf)
 <use imgs/MathAsse5_2.pdf>
 Package pdftex.def Info: imgs/MathAsse5_2.pdf  used on input line 693.
@@ -1545,23 +1539,23 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 699.
 
-<imgs/Cap7/SezAsse12.pdf, id=13097, 708.95161pt x 643.76074pt>
+<imgs/Cap7/SezAsse12.pdf, id=13098, 708.95161pt x 643.76074pt>
 File: imgs/Cap7/SezAsse12.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse12.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse12.pdf  used on input line 702.
 (pdftex.def)             Requested size: 187.89928pt x 170.61543pt.
-<imgs/MathAsse6_0.pdf, id=13098, 317.5555pt x 168.44131pt>
+<imgs/MathAsse6_0.pdf, id=13099, 317.5555pt x 168.44131pt>
 File: imgs/MathAsse6_0.pdf Graphic file (type pdf)
 <use imgs/MathAsse6_0.pdf>
 Package pdftex.def Info: imgs/MathAsse6_0.pdf  used on input line 708.
 (pdftex.def)             Requested size: 281.8561pt x 149.5139pt.
 [43 <./imgs/MathAsse5_2.pdf>]
-<imgs/MathAsse6_1.pdf, id=13429, 155.76114pt x 91.31812pt>
+<imgs/MathAsse6_1.pdf, id=13430, 155.76114pt x 91.31812pt>
 File: imgs/MathAsse6_1.pdf Graphic file (type pdf)
 <use imgs/MathAsse6_1.pdf>
 Package pdftex.def Info: imgs/MathAsse6_1.pdf  used on input line 715.
 (pdftex.def)             Requested size: 117.43884pt x 68.85208pt.
-<imgs/MathAsse6_2.pdf, id=13430, 414.4082pt x 333.88411pt>
+<imgs/MathAsse6_2.pdf, id=13431, 414.4082pt x 333.88411pt>
 File: imgs/MathAsse6_2.pdf Graphic file (type pdf)
 <use imgs/MathAsse6_2.pdf>
 Package pdftex.def Info: imgs/MathAsse6_2.pdf  used on input line 721.
@@ -1575,23 +1569,23 @@ pdfTeX warning: pdflatex (file ./imgs/MathAsse6_0.pdf): PDF inclusion: multiple
 pdfTeX warning: pdflatex (file ./imgs/MathAsse6_1.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >]
-<imgs/Cap7/SezAsse13.pdf, id=14036, 1051.20415pt x 404.89691pt>
+<imgs/Cap7/SezAsse13.pdf, id=14037, 1051.20415pt x 404.89691pt>
 File: imgs/Cap7/SezAsse13.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse13.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse13.pdf  used on input line 736.
 (pdftex.def)             Requested size: 328.82733pt x 126.65353pt.
-<imgs/MathAsse7.pdf, id=14037, 425.09465pt x 444.86649pt>
+<imgs/MathAsse7.pdf, id=14038, 425.09465pt x 444.86649pt>
 File: imgs/MathAsse7.pdf Graphic file (type pdf)
 <use imgs/MathAsse7.pdf>
 Package pdftex.def Info: imgs/MathAsse7.pdf  used on input line 742.
 (pdftex.def)             Requested size: 305.33812pt x 319.55692pt.
  [45 <./imgs/MathAsse6_2.pdf>]
-<imgs/Cap7/SezAsse14.pdf, id=14286, 1243.60619pt x 579.58812pt>
+<imgs/Cap7/SezAsse14.pdf, id=14287, 1243.60619pt x 579.58812pt>
 File: imgs/Cap7/SezAsse14.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse14.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse14.pdf  used on input line 749.
 (pdftex.def)             Requested size: 375.80574pt x 175.14244pt.
-<imgs/MathAsse7_1.pdf, id=14287, 471.04584pt x 448.4607pt>
+<imgs/MathAsse7_1.pdf, id=14288, 471.04584pt x 448.4607pt>
 File: imgs/MathAsse7_1.pdf Graphic file (type pdf)
 <use imgs/MathAsse7_1.pdf>
 Package pdftex.def Info: imgs/MathAsse7_1.pdf  used on input line 755.
@@ -1601,7 +1595,7 @@ Package pdftex.def Info: imgs/MathAsse7_1.pdf  used on input line 755.
 pdfTeX warning: pdflatex (file ./imgs/MathAsse7.pdf): PDF inclusion: multiple p
 dfs with page group included in a single page
 >]
-<imgs/Cap7/SezAsse15.pdf, id=14566, 2200.79pt x 1101.55766pt>
+<imgs/Cap7/SezAsse15.pdf, id=14567, 2200.79pt x 1101.55766pt>
 File: imgs/Cap7/SezAsse15.pdf Graphic file (type pdf)
 <use imgs/Cap7/SezAsse15.pdf>
 Package pdftex.def Info: imgs/Cap7/SezAsse15.pdf  used on input line 764.
@@ -1611,12 +1605,12 @@ Package pdftex.def Info: imgs/Cap7/SezAsse15.pdf  used on input line 764.
 pdfTeX warning: pdflatex (file ./imgs/MathAsse7_1.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >]
-<imgs/MathAsse8_0.pdf, id=15039, 411.18619pt x 314.80428pt>
+<imgs/MathAsse8_0.pdf, id=15040, 411.18619pt x 314.80428pt>
 File: imgs/MathAsse8_0.pdf Graphic file (type pdf)
 <use imgs/MathAsse8_0.pdf>
 Package pdftex.def Info: imgs/MathAsse8_0.pdf  used on input line 770.
 (pdftex.def)             Requested size: 319.43022pt x 244.57123pt.
-<imgs/MathAsse8_1.pdf, id=15040, 428.02803pt x 308.11563pt>
+<imgs/MathAsse8_1.pdf, id=15041, 428.02803pt x 308.11563pt>
 File: imgs/MathAsse8_1.pdf Graphic file (type pdf)
 <use imgs/MathAsse8_1.pdf>
 Package pdftex.def Info: imgs/MathAsse8_1.pdf  used on input line 776.
@@ -1626,35 +1620,35 @@ Package pdftex.def Info: imgs/MathAsse8_1.pdf  used on input line 776.
 pdfTeX warning: pdflatex (file ./imgs/MathAsse8_0.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >]
-<imgs/MathAsse8_2.pdf, id=15301, 406.84363pt x 502.66101pt>
+<imgs/MathAsse8_2.pdf, id=15302, 406.84363pt x 502.66101pt>
 File: imgs/MathAsse8_2.pdf Graphic file (type pdf)
 <use imgs/MathAsse8_2.pdf>
 Package pdftex.def Info: imgs/MathAsse8_2.pdf  used on input line 783.
 (pdftex.def)             Requested size: 319.43022pt x 394.68948pt.
  [49 <./imgs/MathAsse8_1.pdf>]
-<imgs/MathAsse9_0.pdf, id=15510, 413.68765pt x 190.87425pt>
+<imgs/MathAsse9_0.pdf, id=15511, 413.68765pt x 190.87425pt>
 File: imgs/MathAsse9_0.pdf Graphic file (type pdf)
 <use imgs/MathAsse9_0.pdf>
 Package pdftex.def Info: imgs/MathAsse9_0.pdf  used on input line 795.
 (pdftex.def)             Requested size: 319.43022pt x 147.393pt.
-<imgs/MathAsse9_1.pdf, id=15511, 478.57365pt x 709.7946pt>
+<imgs/MathAsse9_1.pdf, id=15512, 478.57365pt x 709.7946pt>
 File: imgs/MathAsse9_1.pdf Graphic file (type pdf)
 <use imgs/MathAsse9_1.pdf>
 Package pdftex.def Info: imgs/MathAsse9_1.pdf  used on input line 801.
 (pdftex.def)             Requested size: 319.43022pt x 473.76204pt.
  [50 <./imgs/MathAsse8_2.pdf>] [51 <./imgs/MathAsse9_0.pdf>]
-<imgs/MathAsse9_2.pdf, id=16034, 428.89691pt x 361.21635pt>
+<imgs/MathAsse9_2.pdf, id=16035, 428.89691pt x 361.21635pt>
 File: imgs/MathAsse9_2.pdf Graphic file (type pdf)
 <use imgs/MathAsse9_2.pdf>
 Package pdftex.def Info: imgs/MathAsse9_2.pdf  used on input line 811.
 (pdftex.def)             Requested size: 319.43022pt x 269.03209pt.
  [52 <./imgs/MathAsse9_1.pdf>]
-<imgs/MathAsse9_3.pdf, id=16621, 406.51842pt x 367.80266pt>
+<imgs/MathAsse9_3.pdf, id=16622, 406.51842pt x 367.80266pt>
 File: imgs/MathAsse9_3.pdf Graphic file (type pdf)
 <use imgs/MathAsse9_3.pdf>
 Package pdftex.def Info: imgs/MathAsse9_3.pdf  used on input line 818.
 (pdftex.def)             Requested size: 319.43022pt x 289.01755pt.
-<imgs/MathAsse9_4.pdf, id=16622, 428.13638pt x 272.24304pt>
+<imgs/MathAsse9_4.pdf, id=16623, 428.13638pt x 272.24304pt>
 File: imgs/MathAsse9_4.pdf Graphic file (type pdf)
 <use imgs/MathAsse9_4.pdf>
 Package pdftex.def Info: imgs/MathAsse9_4.pdf  used on input line 825.
@@ -1664,7 +1658,7 @@ Package pdftex.def Info: imgs/MathAsse9_4.pdf  used on input line 825.
 pdfTeX warning: pdflatex (file ./imgs/MathAsse9_3.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >]
-<imgs/MathAsse9_5.pdf, id=17195, 424.33415pt x 276.04533pt>
+<imgs/MathAsse9_5.pdf, id=17196, 424.33415pt x 276.04533pt>
 File: imgs/MathAsse9_5.pdf Graphic file (type pdf)
 <use imgs/MathAsse9_5.pdf>
 Package pdftex.def Info: imgs/MathAsse9_5.pdf  used on input line 832.
@@ -1674,7 +1668,7 @@ Package pdftex.def Info: imgs/MathAsse9_5.pdf  used on input line 832.
 pdfTeX warning: pdflatex (file ./imgs/MathAsse9_5.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >]
-<imgs/Smith.pdf, id=17804, 769.10652pt x 654.19597pt>
+<imgs/Smith.pdf, id=17805, 769.10652pt x 654.19597pt>
 File: imgs/Smith.pdf Graphic file (type pdf)
 <use imgs/Smith.pdf>
 Package pdftex.def Info: imgs/Smith.pdf  used on input line 893.
@@ -1694,12 +1688,12 @@ Overfull \hbox (2.12933pt too wide) in paragraph at lines 17--21
 muo-ven-do det-ta-gli che sa-reb-be-ro ri-sul-ta-ti in-si-gni-fi-can-ti
  []
 
-<imgs/fem/Quarto1.jpg, id=17843, 755.82375pt x 597.73312pt>
+<imgs/fem/Quarto1.jpg, id=17844, 755.82375pt x 597.73312pt>
 File: imgs/fem/Quarto1.jpg Graphic file (type jpg)
 <use imgs/fem/Quarto1.jpg>
 Package pdftex.def Info: imgs/fem/Quarto1.jpg  used on input line 27.
 (pdftex.def)             Requested size: 234.87769pt x 185.75137pt.
-<imgs/fem/Quarto2.jpg, id=17844, 966.61125pt x 642.90187pt>
+<imgs/fem/Quarto2.jpg, id=17845, 966.61125pt x 642.90187pt>
 File: imgs/fem/Quarto2.jpg Graphic file (type jpg)
 <use imgs/fem/Quarto2.jpg>
 Package pdftex.def Info: imgs/fem/Quarto2.jpg  used on input line 33.
@@ -1708,106 +1702,106 @@ Package pdftex.def Info: imgs/fem/Quarto2.jpg  used on input line 33.
 
 
 ]
-<imgs/fem/Quarto3.jpg, id=17850, 418.56375pt x 603.0028pt>
+<imgs/fem/Quarto3.jpg, id=17851, 418.56375pt x 603.0028pt>
 File: imgs/fem/Quarto3.jpg Graphic file (type jpg)
 <use imgs/fem/Quarto3.jpg>
 Package pdftex.def Info: imgs/fem/Quarto3.jpg  used on input line 39.
 (pdftex.def)             Requested size: 211.38849pt x 304.5278pt.
  [58 <./imgs/fem/Quarto1.jpg> <./imgs/fem/Quarto2.jpg>]
-<imgs/fem/MezzoBozzello-Asse.jpg, id=17857, 1140.51094pt x 612.78937pt>
+<imgs/fem/MezzoBozzello-Asse.jpg, id=17858, 1140.51094pt x 612.78937pt>
 File: imgs/fem/MezzoBozzello-Asse.jpg Graphic file (type jpg)
 <use imgs/fem/MezzoBozzello-Asse.jpg>
 Package pdftex.def Info: imgs/fem/MezzoBozzello-Asse.jpg  used on input line 46
 .
 (pdftex.def)             Requested size: 281.8561pt x 151.43909pt.
-<imgs/fem/MezzoBozzello-Traversa.jpg, id=17858, 1154.06157pt x 606.01407pt>
+<imgs/fem/MezzoBozzello-Traversa.jpg, id=17859, 1154.06157pt x 606.01407pt>
 File: imgs/fem/MezzoBozzello-Traversa.jpg Graphic file (type jpg)
 <use imgs/fem/MezzoBozzello-Traversa.jpg>
 Package pdftex.def Info: imgs/fem/MezzoBozzello-Traversa.jpg  used on input lin
 e 53.
 (pdftex.def)             Requested size: 281.8561pt x 148.00777pt.
  [59 <./imgs/fem/Quarto3.jpg> <./imgs/fem/MezzoBozzello-Asse.jpg>]
-<imgs/fem/MezzoBozzello-Traversa.pdf, id=17866, 867.24pt x 433.62pt>
+<imgs/fem/MezzoBozzello-Traversa.pdf, id=17867, 867.24pt x 433.62pt>
 File: imgs/fem/MezzoBozzello-Traversa.pdf Graphic file (type pdf)
 <use imgs/fem/MezzoBozzello-Traversa.pdf>
 Package pdftex.def Info: imgs/fem/MezzoBozzello-Traversa.pdf  used on input lin
 e 60.
 (pdftex.def)             Requested size: 258.36688pt x 129.18054pt.
-<imgs/fem/GancioCaricoFin.jpg, id=17868, 1329.46687pt x 520.94624pt>
+<imgs/fem/GancioCaricoFin.jpg, id=17869, 1329.46687pt x 520.94624pt>
 File: imgs/fem/GancioCaricoFin.jpg Graphic file (type jpg)
 <use imgs/fem/GancioCaricoFin.jpg>
 Package pdftex.def Info: imgs/fem/GancioCaricoFin.jpg  used on input line 71.
 (pdftex.def)             Requested size: 375.80574pt x 147.25502pt.
-<imgs/fem/GancioFeaFinal.png, id=17869, 1779.64874pt x 651.18282pt>
+<imgs/fem/GancioFeaFinal.png, id=17870, 1779.64874pt x 651.18282pt>
 File: imgs/fem/GancioFeaFinal.png Graphic file (type png)
 <use imgs/fem/GancioFeaFinal.png>
 Package pdftex.def Info: imgs/fem/GancioFeaFinal.png  used on input line 77.
 (pdftex.def)             Requested size: 375.80574pt x 137.50758pt.
  [60 <./imgs/fem/MezzoBozzello-Traversa.jpg> <./imgs/fem/MezzoBozzello-Traversa
 .pdf> <./imgs/fem/GancioCaricoFin.jpg>]
-<imgs/fem/Gancio.pdf, id=17926, 867.24pt x 433.62pt>
+<imgs/fem/Gancio.pdf, id=17927, 867.24pt x 433.62pt>
 File: imgs/fem/Gancio.pdf Graphic file (type pdf)
 <use imgs/fem/Gancio.pdf>
 Package pdftex.def Info: imgs/fem/Gancio.pdf  used on input line 86.
 (pdftex.def)             Requested size: 281.8561pt x 140.92482pt.
-<imgs/fem/SimGambo2.pdf, id=17927, 438.13687pt x 537.50812pt>
+<imgs/fem/SimGambo2.pdf, id=17928, 438.13687pt x 537.50812pt>
 File: imgs/fem/SimGambo2.pdf Graphic file (type pdf)
 <use imgs/fem/SimGambo2.pdf>
 Package pdftex.def Info: imgs/fem/SimGambo2.pdf  used on input line 99.
 (pdftex.def)             Requested size: 187.89928pt x 230.51706pt.
-<imgs/fem/SimGambo1.png, id=17928, 1077.27469pt x 554.82281pt>
+<imgs/fem/SimGambo1.png, id=17929, 1077.27469pt x 554.82281pt>
 File: imgs/fem/SimGambo1.png Graphic file (type png)
 <use imgs/fem/SimGambo1.png>
 Package pdftex.def Info: imgs/fem/SimGambo1.png  used on input line 105.
 (pdftex.def)             Requested size: 328.82733pt x 169.35193pt.
  [61 <./imgs/fem/GancioFeaFinal.png> <./imgs/fem/Gancio.pdf>]
-<imgs/fem/GamboGancioConv.pdf, id=17985, 867.24pt x 433.62pt>
+<imgs/fem/GamboGancioConv.pdf, id=17986, 867.24pt x 433.62pt>
 File: imgs/fem/GamboGancioConv.pdf Graphic file (type pdf)
 <use imgs/fem/GamboGancioConv.pdf>
 Package pdftex.def Info: imgs/fem/GamboGancioConv.pdf  used on input line 113.
 (pdftex.def)             Requested size: 281.8561pt x 140.92482pt.
  [62 <./imgs/fem/SimGambo2.pdf> <./imgs/fem/SimGambo1.png>]
-<imgs/fem/SimTraversaCarico.png, id=18003, 1165.35374pt x 513.41812pt>
+<imgs/fem/SimTraversaCarico.png, id=18004, 1165.35374pt x 513.41812pt>
 File: imgs/fem/SimTraversaCarico.png Graphic file (type png)
 <use imgs/fem/SimTraversaCarico.png>
 Package pdftex.def Info: imgs/fem/SimTraversaCarico.png  used on input line 125
 .
 (pdftex.def)             Requested size: 375.80574pt x 165.56627pt.
-<imgs/fem/AsseSim1.jpg, id=18004, 565.36218pt x 505.13719pt>
+<imgs/fem/AsseSim1.jpg, id=18005, 565.36218pt x 505.13719pt>
 File: imgs/fem/AsseSim1.jpg Graphic file (type jpg)
 <use imgs/fem/AsseSim1.jpg>
 Package pdftex.def Info: imgs/fem/AsseSim1.jpg  used on input line 139.
 (pdftex.def)             Requested size: 211.38847pt x 188.86331pt.
-<imgs/fem/AsseSim2.jpg, id=18005, 483.30562pt x 414.79968pt>
+<imgs/fem/AsseSim2.jpg, id=18006, 483.30562pt x 414.79968pt>
 File: imgs/fem/AsseSim2.jpg Graphic file (type jpg)
 <use imgs/fem/AsseSim2.jpg>
 Package pdftex.def Info: imgs/fem/AsseSim2.jpg  used on input line 145.
 (pdftex.def)             Requested size: 211.38847pt x 181.42378pt.
  [63 <./imgs/fem/GamboGancioConv.pdf> <./imgs/fem/SimTraversaCarico.png>]
-<imgs/fem/TraversaSim1.png, id=18060, 1247.41031pt x 651.18282pt>
+<imgs/fem/TraversaSim1.png, id=18061, 1247.41031pt x 651.18282pt>
 File: imgs/fem/TraversaSim1.png Graphic file (type png)
 <use imgs/fem/TraversaSim1.png>
 Package pdftex.def Info: imgs/fem/TraversaSim1.png  used on input line 153.
 (pdftex.def)             Requested size: 328.82733pt x 171.64848pt.
-<imgs/fem/TraversaConv.pdf, id=18061, 867.24pt x 433.62pt>
+<imgs/fem/TraversaConv.pdf, id=18062, 867.24pt x 433.62pt>
 File: imgs/fem/TraversaConv.pdf Graphic file (type pdf)
 <use imgs/fem/TraversaConv.pdf>
 Package pdftex.def Info: imgs/fem/TraversaConv.pdf  used on input line 160.
 (pdftex.def)             Requested size: 281.8561pt x 140.92482pt.
  [64 <./imgs/fem/AsseSim1.jpg> <./imgs/fem/AsseSim2.jpg> <./imgs/fem/TraversaSi
 m1.png (PNG copy)>]
-<imgs/fem/AsseCarico.jpg, id=18069, 879.285pt x 450.18187pt>
+<imgs/fem/AsseCarico.jpg, id=18070, 879.285pt x 450.18187pt>
 File: imgs/fem/AsseCarico.jpg Graphic file (type jpg)
 <use imgs/fem/AsseCarico.jpg>
 Package pdftex.def Info: imgs/fem/AsseCarico.jpg  used on input line 172.
 (pdftex.def)             Requested size: 305.33812pt x 156.32268pt.
-<imgs/fem/AsseSim3.jpg, id=18070, 951.555pt x 521.69907pt>
+<imgs/fem/AsseSim3.jpg, id=18071, 951.555pt x 521.69907pt>
 File: imgs/fem/AsseSim3.jpg Graphic file (type jpg)
 <use imgs/fem/AsseSim3.jpg>
 Package pdftex.def Info: imgs/fem/AsseSim3.jpg  used on input line 180.
 (pdftex.def)             Requested size: 305.33812pt x 167.40085pt.
  [65 <./imgs/fem/TraversaConv.pdf> <./imgs/fem/AsseCarico.jpg>]
-<imgs/fem/AsseDisp.png, id=18125, 1126.2075pt x 651.18282pt>
+<imgs/fem/AsseDisp.png, id=18126, 1126.2075pt x 651.18282pt>
 File: imgs/fem/AsseDisp.png Graphic file (type png)
 <use imgs/fem/AsseDisp.png>
 Package pdftex.def Info: imgs/fem/AsseDisp.png  used on input line 191.
@@ -1818,7 +1812,7 @@ Overfull \hbox (1.69334pt too wide) in paragraph at lines 184--194
 esh. Il fo-ro cen-tra-le e si-tua-to nel pun-to mag-gior-men-te
  []
 
-<imgs/fem/Asse.pdf, id=18126, 867.24pt x 433.62pt>
+<imgs/fem/Asse.pdf, id=18127, 867.24pt x 433.62pt>
 File: imgs/fem/Asse.pdf Graphic file (type pdf)
 <use imgs/fem/Asse.pdf>
 Package pdftex.def Info: imgs/fem/Asse.pdf  used on input line 198.
@@ -1843,22 +1837,22 @@ quo-te del lamone-piastrone per per-met-te-re l'ac-cop-pia-men-to
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 41.
 
-<render/Dettaglio.png, id=18189, 385.44pt x 385.44pt>
+<render/Dettaglio.png, id=18190, 385.44pt x 385.44pt>
 File: render/Dettaglio.png Graphic file (type png)
 <use render/Dettaglio.png>
 Package pdftex.def Info: render/Dettaglio.png  used on input line 61.
 (pdftex.def)             Requested size: 187.89928pt x 187.89682pt.
-<render/PiastrinaGancio.png, id=18190, 352.4367pt x 318.4698pt>
+<render/PiastrinaGancio.png, id=18191, 352.4367pt x 318.4698pt>
 File: render/PiastrinaGancio.png Graphic file (type png)
 <use render/PiastrinaGancio.png>
 Package pdftex.def Info: render/PiastrinaGancio.png  used on input line 67.
 (pdftex.def)             Requested size: 187.89928pt x 169.79408pt.
-<render/Gancio1.png, id=18192, 271.0125pt x 361.35pt>
+<render/Gancio1.png, id=18193, 271.0125pt x 361.35pt>
 File: render/Gancio1.png Graphic file (type png)
 <use render/Gancio1.png>
 Package pdftex.def Info: render/Gancio1.png  used on input line 74.
 (pdftex.def)             Requested size: 281.8561pt x 375.82271pt.
-<render/GancioSezione.png, id=18193, 192.72pt x 385.44pt>
+<render/GancioSezione.png, id=18194, 192.72pt x 385.44pt>
 File: render/GancioSezione.png Graphic file (type png)
 <use render/GancioSezione.png>
 Package pdftex.def Info: render/GancioSezione.png  used on input line 81.
@@ -1893,12 +1887,12 @@ Overfull \hbox (21.77853pt too wide) in paragraph at lines 8--14
 
 
 ]
-<imgs/Golf1.pdf, id=18226, 598.07866pt x 845.61673pt>
+<imgs/Golf1.pdf, id=18227, 598.07866pt x 845.61673pt>
 File: imgs/Golf1.pdf Graphic file (type pdf)
 <use imgs/Golf1.pdf>
 Package pdftex.def Info: imgs/Golf1.pdf  used on input line 88.
 (pdftex.def)             Requested size: 422.77698pt x 597.77275pt.
-<imgs/Golf2.pdf, id=18227, 576.57915pt x 844.61354pt>
+<imgs/Golf2.pdf, id=18228, 576.57915pt x 844.61354pt>
 File: imgs/Golf2.pdf Graphic file (type pdf)
 <use imgs/Golf2.pdf>
 Package pdftex.def Info: imgs/Golf2.pdf  used on input line 92.
@@ -1926,16 +1920,13 @@ Package rerunfilecheck Info: File `ProgettazioneMeccanica.out' has not changed.
 (rerunfilecheck)             Checksum: 013A9F1A81E255B50BFFB5FA4A530D25;2176.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  14386 strings out of 480799
  263832 string characters out of 2907382
- 529685 words of memory out of 3000000
+ 529762 words of memory out of 3000000
  29739 multiletter control sequences out of 15000+200000
  544690 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1954,9 +1945,9 @@ rammi/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Programmi/MiKTeX 2
 ts/cm/cmsl10.pfb><D:/Programmi/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
 .pfb><D:/Programmi/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Prog
 rammi/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ProgettazioneMeccanica.pdf (76 pages, 19815987 bytes).
+Output written on ProgettazioneMeccanica.pdf (76 pages, 19815918 bytes).
 PDF statistics:
- 18795 PDF objects out of 22161 (max. 8388607)
+ 18796 PDF objects out of 22161 (max. 8388607)
  237 named destinations out of 1000 (max. 500000)
  859 words of extra memory for PDF output out of 10000 (max. 10000000)
 
